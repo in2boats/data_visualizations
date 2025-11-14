@@ -1,0 +1,52 @@
+Name,State,Region,pop,Murders
+Alabama,AL,South,5076181,650
+Alaska,AK,West,734442,31
+Arizona,AZ,West,7377566,430
+Arkansas,AR,South,3047704,281
+California,CA,West,39142414,1861
+Colorado,CO,West,5850935,276
+Connecticut,CT,Northeast,3617925,116
+Delaware,DE,South,1020625,80
+District of Columbia,DC,South,676725,169
+Florida,FL,South,22379312,1150
+Georgia,GA,South,10931805,1021
+Hawaii,HI,West,1440359,23
+Idaho,ID,West,1944299,28
+Illinois,IL,North Central,12621821,1292
+Indiana,IN,North Central,6844545,517
+Iowa,IA,North Central,3202820,64
+Kansas,KS,North Central,2937324,145
+Kentucky,KY,South,4519233,364
+Louisiana,LA,South,4593687,804
+Maine,ME,Northeast,1390922,12
+Maryland,MD,South,6192440,592
+Massachusetts,MA,Northeast,7022468,99
+Michigan,MI,North Central,10050877,701
+Minnesota,MN,North Central,5721621,164
+Mississippi,MS,South,2941939,583
+Missouri,MO,North Central,6179414,609
+Montana,MT,West,1122095,30
+Nebraska,NE,North Central,1972246,46
+Nevada,NV,West,3176116,199
+New Hampshire,NH,Northeast,1396678,111
+New Jersey,NJ,Northeast,9295227,276
+New Mexico,NM,West,2113868,230
+New York,NY,Northeast,19703747,613
+North Carolina,NC,South,10710793,850
+North Dakota,ND,North Central,781057,20
+Ohio,OH,North Central,11777874,872
+Oklahoma,OK,South,4026229,257
+Oregon,OR,West,4247372,146
+Pennsylvania,PA,Northeast,12984990,861
+Rhode Island,RI,Northeast,1099498,27
+South Carolina,SC,South,5287935,558
+South Dakota,SD,North Central,909723,25
+Tennessee,TN,South,7062217,714
+Texas,TX,South,30113488,1942
+Utah,UT,West,3391011,70
+Vermont,VT,Northeast,648142,74
+Virginia,VA,South,8683414,505
+Washington,WA,West,7794123,254
+West Virginia,WV,South,1774122,86
+Wisconsin,WI,North Central,5903975,290
+Wyoming,WY,West,581978,10
